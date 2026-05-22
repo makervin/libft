@@ -25,6 +25,7 @@
 # include "ctype/libft_ctype.h"
 # include "dict/libft_dict.h"
 # include "printf/ft_printf.h" 
+# include "sort/libft_sort.h"
 # include "string/libft_string.h"
 # include "io/libft_io.h"
 # include "memory/libft_memory.h"

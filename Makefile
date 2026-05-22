@@ -57,6 +57,7 @@ SRC			= \
 	printf/ft_printf_ptr.c \
 	printf/ft_printf_str.c \
 	printf/ft_printf_utils.c \
+	sort/ft_qsort.c \
 	string/ft_split.c \
 	string/ft_strcasecmp.c \
 	string/ft_strchr.c \
